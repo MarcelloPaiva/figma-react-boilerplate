@@ -25,7 +25,10 @@ const App = ({}) => {
                 Welcome to your figma plugin!
             </Text>
             <Text size="large" weight="normal">
-                Check out <a href="https://github.com/alexandrtovmach/react-figma-plugin-ds/">react-figma-plugin-ds</a>{' '}
+                Check out{' '}
+                <a href="https://github.com/alexandrtovmach/react-figma-plugin-ds/" target="_blank" rel="noreferrer">
+                    react-figma-plugin-ds
+                </a>{' '}
                 on gitHub to learn about the available components!
             </Text>
         </div>
